@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Pedro Gabriel 👋
 
-<!--
-**peddrogabriel/peddrogabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+🕶️ Interested in AR/VR and immersive technologies  
+⚙️ Interested in embedded systems and hardware  
+💻 Currently studying C and Python  
 
-Here are some ideas to get you started:
+## Technologies
+- C
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Improve problem-solving skills
+- Build AR/VR projects
+- Learn more about hardware and embedded systems
+- Create useful software projects
