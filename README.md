@@ -20,10 +20,6 @@
 - Learn more about hardware and embedded systems
 - Create useful software projects
 
-## GitHub Stats
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=peddrogabriel&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peddrogabriel&layout=compact&theme=tokyonight)
 
 
